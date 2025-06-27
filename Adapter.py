@@ -1,4 +1,3 @@
-# The European socket interface
 class EuropeanSocket:
     def provide_electricity(self):
         return "220V from European socket"
